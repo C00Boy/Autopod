@@ -1,0 +1,17 @@
+{
+  "name": "test-pod",
+  "version": "1.0.0",
+  "main": "convertToAudio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "yt-channel-info": "^3.2.1",
+    "ytdl-core": "^4.11.4"
+  },
+  "description": ""
+}
